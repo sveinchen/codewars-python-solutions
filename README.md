@@ -1,2 +1,3 @@
-# codewars-python-solutions
-My Codewars Solutions.
+# Codewars Python Solutions
+
+[![Codewars](https://www.codewars.com/users/sveinchen/badges/large)](https://www.codewars.com/users/sveinchen/)
